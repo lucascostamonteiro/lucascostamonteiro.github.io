@@ -986,6 +986,10 @@ input, select, textarea {
 			font-size: 1em;
 		}
 
+		.sub-title{
+			font-weight: bold;
+		}
+
 		#header nav {
 			font-size: 1em;
 		}
