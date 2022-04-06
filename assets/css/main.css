@@ -1338,6 +1338,7 @@ input, select, textarea {
 
 			#header .stack-div{
 			letter-spacing: 0.2rem;
+			font-weight: 500;
 			}
 
 		#header nav ul {
@@ -1350,6 +1351,15 @@ input, select, textarea {
 			padding-left: 0;
 			border: solid 1px #ffffff;
 			border-radius: 4px;
+		}
+
+		#intro .footer,
+		#work1 .footer,
+		#work2 .footer{
+			display:flex;
+			flex-direction: row;
+			justify-content: space-evenly;
+			padding-top: 20px;
 		}
 
 			#header nav ul li {
