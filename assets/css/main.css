@@ -1355,7 +1355,8 @@ input, select, textarea {
 
 		#intro .footer,
 		#work1 .footer,
-		#work2 .footer{
+		#work2 .footer,
+		#contact .footer{
 			display:flex;
 			flex-direction: row;
 			justify-content: space-evenly;
