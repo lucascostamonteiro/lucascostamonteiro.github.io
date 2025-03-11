@@ -1499,6 +1499,8 @@ body.is-preload #bg:before {
 #intro .footer,
 #work1 .footer,
 #work2 .footer,
+#work3 .footer,
+#work4 .footer,
 #contact .footer {
   display: flex;
   flex-direction: row;
